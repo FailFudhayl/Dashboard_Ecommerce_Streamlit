@@ -5,7 +5,7 @@ Dashboard database e-commerce proyek analisis data dengan python
 ```
 python -m venv env
 env\Scripts\activate
-pip install pandas matplotlib seaborn streamlit numpy
+pip install -r requirements.txt
 ```
 
 ## Run Streamlit App
